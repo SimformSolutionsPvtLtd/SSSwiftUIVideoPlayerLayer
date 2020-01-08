@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSSwiftUIVideoPlayerLayer_Example' do
+  pod 'SSSwiftUIVideoPlayerLayer', :path => '../'
+
+  target 'SSSwiftUIVideoPlayerLayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
