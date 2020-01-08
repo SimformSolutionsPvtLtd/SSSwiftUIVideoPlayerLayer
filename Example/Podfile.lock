@@ -1,0 +1,16 @@
+PODS:
+  - SSSwiftUIVideoPlayerLayer (0.1.0)
+
+DEPENDENCIES:
+  - SSSwiftUIVideoPlayerLayer (from `../`)
+
+EXTERNAL SOURCES:
+  SSSwiftUIVideoPlayerLayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSSwiftUIVideoPlayerLayer: 867b0dd8d9816311e10d20988e0b7add25aba9e8
+
+PODFILE CHECKSUM: ce2b2dc6757149ed8d21343c25045a878f5736cd
+
+COCOAPODS: 1.8.4
